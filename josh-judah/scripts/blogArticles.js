@@ -1,7 +1,8 @@
 'use strict';
 
-// COMMENT: How is this data utilized within our blog app? What is the structure of this data (your response should include the terms "object", "array", and "key/value pairs")?
-// PUT YOUR RESPONSE HERE
+// COMMENTED: How is this data utilized within our blog app? What is the structure of this data (your response should include the terms "object", "array", and "key/value pairs")?
+// rawData is an array of objects with key/value pairs in each object. We are leveraging this array and these objects and key/value pairs to populate our blog app via jQuery DOM manipulation.
+
 
 let rawData = [
   {
